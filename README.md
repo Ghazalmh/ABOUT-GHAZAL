@@ -2,7 +2,6 @@
 
 <div align="center">
 
-# `Ghazal`
 
 ### Ghazal Mehri
 **Computer Science Student | Aspiring Software Developer**
