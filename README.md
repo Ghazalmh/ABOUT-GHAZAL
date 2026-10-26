@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# `ghazalmh`
+# `Ghazal`
 
 ### Ghazal Mehri
 **Computer Science Student | Aspiring Software Developer**
